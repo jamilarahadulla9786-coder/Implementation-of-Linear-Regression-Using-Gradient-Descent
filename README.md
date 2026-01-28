@@ -82,10 +82,8 @@ print("Final bias (b):", b)
 
 Developed by: ABDUL RAHMAN A R
 RegisterNumber:25008775  
-```
-
-## Output:<img width="1298" height="652" alt="Screenshot 2026-01-28 112416" src="https://github.com/user-attachments/assets/ca84e96e-5b9b-4471-ba71-996c2d6cb754" />
-
+output:
+<img width="1298" height="652" alt="Screenshot 2026-01-28 112416" src="https://github.com/user-attachments/assets/1bd04028-2ead-407e-81be-09e3a2e75d67" />
 
 
 ## Result:
